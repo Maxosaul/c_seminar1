@@ -1,0 +1,15 @@
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.csproj.AssemblyReference.cache
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.AssemblyInfoInputs.cache
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.AssemblyInfo.cs
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Education\c#seminar1\Lesson4\bin\Debug\net6.0\Lesson4.exe
+D:\YandexDisk\Education\c#seminar1\Lesson4\bin\Debug\net6.0\Lesson4.deps.json
+D:\YandexDisk\Education\c#seminar1\Lesson4\bin\Debug\net6.0\Lesson4.runtimeconfig.json
+D:\YandexDisk\Education\c#seminar1\Lesson4\bin\Debug\net6.0\Lesson4.dll
+D:\YandexDisk\Education\c#seminar1\Lesson4\bin\Debug\net6.0\Lesson4.pdb
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.dll
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\refint\Lesson4.dll
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.pdb
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\Lesson4.genruntimeconfig.cache
+D:\YandexDisk\Education\c#seminar1\Lesson4\obj\Debug\net6.0\ref\Lesson4.dll
