@@ -6,7 +6,7 @@ if (number1>=1 && number1<=7)
 {
     Console.WriteLine(days[number1-1]);
 }
-    else 
+else 
 {
     Console.WriteLine("Вы ввели неправельное число");
 }
