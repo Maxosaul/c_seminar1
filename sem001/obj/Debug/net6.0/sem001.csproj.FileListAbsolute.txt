@@ -1,0 +1,15 @@
+D:\YandexDisk\Education\c#seminar1\sem001\bin\Debug\net6.0\sem001.exe
+D:\YandexDisk\Education\c#seminar1\sem001\bin\Debug\net6.0\sem001.deps.json
+D:\YandexDisk\Education\c#seminar1\sem001\bin\Debug\net6.0\sem001.runtimeconfig.json
+D:\YandexDisk\Education\c#seminar1\sem001\bin\Debug\net6.0\sem001.dll
+D:\YandexDisk\Education\c#seminar1\sem001\bin\Debug\net6.0\sem001.pdb
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.csproj.AssemblyReference.cache
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.AssemblyInfoInputs.cache
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.AssemblyInfo.cs
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.dll
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\refint\sem001.dll
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.pdb
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\sem001.genruntimeconfig.cache
+D:\YandexDisk\Education\c#seminar1\sem001\obj\Debug\net6.0\ref\sem001.dll
